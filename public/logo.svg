@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1069 873" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="1069" height="873" fill="#000000"/>
+  
+  <!-- Yellow text outline and fill for "BARZ STUDIO BASE" -->
+  <g fill="#FFD700" stroke="#FFD700" stroke-width="2">
+    <!-- BARZ -->
+    <text x="50" y="250" font-size="140" font-weight="bold" font-family="Arial, sans-serif" letter-spacing="10">BARZ</text>
+    
+    <!-- STUDIO -->
+    <text x="100" y="420" font-size="120" font-weight="bold" font-family="Arial, sans-serif" letter-spacing="15">STUDIO</text>
+    
+    <!-- BASE -->
+    <text x="180" y="580" font-size="140" font-weight="bold" font-family="Arial, sans-serif" letter-spacing="10">BASE</text>
+  </g>
+  
+  <!-- Decorative rounded rectangles on sides -->
+  <rect x="30" y="50" width="80" height="300" rx="40" fill="none" stroke="#FFD700" stroke-width="20" opacity="0.8"/>
+  <rect x="960" y="50" width="80" height="300" rx="40" fill="none" stroke="#FFD700" stroke-width="20" opacity="0.8"/>
+  <rect x="30" y="500" width="80" height="300" rx="40" fill="none" stroke="#FFD700" stroke-width="20" opacity="0.8"/>
+  <rect x="960" y="500" width="80" height="300" rx="40" fill="none" stroke="#FFD700" stroke-width="20" opacity="0.8"/>
+</svg>
